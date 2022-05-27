@@ -31,7 +31,7 @@
     "@codemirror/lang-javascript": "^0.20.0",
     "@codemirror/language": "^0.20.0",
     "@codemirror/state": "^0.20.0",
-    "@lezer/html": "^0.16.0",
+    "@lezer/html": "https://github.com/jasim/lezer-html.git",
     "@lezer/common": "^0.16.0"
   },
   "devDependencies": {
